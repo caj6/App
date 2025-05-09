@@ -1,0 +1,3 @@
+C:\Users\junio\source\repos\Project\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
+C:\Users\junio\source\repos\Project\Project\x64\Debug\ProjectPOO.MyForm.resources
+C:\Users\junio\source\repos\Project\Project\x64\Debug\Project.vcxproj.GenerateResource.cache

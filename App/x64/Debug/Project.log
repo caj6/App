@@ -1,0 +1,7 @@
+﻿  login.cpp
+  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\junio\source\repos\Project\Project\login.cpp(68,1): warning C4715: 'NS_Comp_login::CLlogin::cree_cpt': not all control paths return a value
+  login.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project.vcxproj -> C:\Users\junio\source\repos\Project\x64\Debug\Project.exe
